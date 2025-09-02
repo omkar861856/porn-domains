@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.0216485676.m35avy.txt",
-    "updated": "2025-09-01T07:19:23Z",
-    "lines": 672692,
-    "lines_format": "672,692",
-    "size": 13888462,
-    "size_format": "13.2 MB"
+    "name": "block.0a5c97d39a.55hppl.txt",
+    "updated": "2025-09-02T07:20:51Z",
+    "lines": 737900,
+    "lines_format": "737,900",
+    "size": 15145035,
+    "size_format": "14.4 MB"
   },
   "allowlist": {
     "name": "allow.61f9c283e3.1jrlhx.txt",
