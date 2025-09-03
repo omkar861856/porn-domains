@@ -1,4 +1,4 @@
-name: Obfuscate blocklist to avoid use of direct raw url of block.txt
+name: Obfuscate blocklist, see https://github.com/Bon-Appetit/porn-domains/discussions/75
 
 on:
   push:
