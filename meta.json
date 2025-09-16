@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.52a1d3fda7.a7h9tw.txt",
-    "updated": "2025-09-15T07:21:48Z",
-    "lines": 750858,
-    "lines_format": "750,858",
-    "size": 15387461,
-    "size_format": "14.7 MB"
+    "name": "block.00feb64ba2.scbimh.txt",
+    "updated": "2025-09-16T07:21:29Z",
+    "lines": 758939,
+    "lines_format": "758,939",
+    "size": 15532867,
+    "size_format": "14.8 MB"
   },
   "allowlist": {
     "name": "allow.ce07f3642e.achmk4.txt",
