@@ -1,10 +1,10 @@
 {
   "blocklist": {
-    "name": "block.a7439be21e.aozw7a.txt",
-    "updated": "2025-09-19T07:21:14Z",
-    "lines": 756000,
-    "lines_format": "756,000",
-    "size": 15488429,
+    "name": "block.f540593482.0x2lfp.txt",
+    "updated": "2025-09-20T07:21:05Z",
+    "lines": 758138,
+    "lines_format": "758,138",
+    "size": 15520947,
     "size_format": "14.8 MB"
   },
   "allowlist": {
