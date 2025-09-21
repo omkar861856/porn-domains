@@ -1,10 +1,10 @@
 {
   "blocklist": {
-    "name": "block.f540593482.0x2lfp.txt",
-    "updated": "2025-09-20T07:21:05Z",
-    "lines": 758138,
-    "lines_format": "758,138",
-    "size": 15520947,
+    "name": "block.bab986266c.62pv9l.txt",
+    "updated": "2025-09-21T07:21:07Z",
+    "lines": 758323,
+    "lines_format": "758,323",
+    "size": 15526463,
     "size_format": "14.8 MB"
   },
   "allowlist": {
