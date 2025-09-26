@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.7b5fe3215a.t11ydr.txt",
-    "updated": "2025-09-25T07:21:17Z",
-    "lines": 756238,
-    "lines_format": "756,238",
-    "size": 15495258,
-    "size_format": "14.8 MB"
+    "name": "block.7328571c7d.emud1k.txt",
+    "updated": "2025-09-26T07:21:13Z",
+    "lines": 753975,
+    "lines_format": "753,975",
+    "size": 15461240,
+    "size_format": "14.7 MB"
   },
   "allowlist": {
     "name": "allow.ce07f3642e.mm18wc.txt",
