@@ -1,10 +1,10 @@
 {
   "blocklist": {
-    "name": "block.7328571c7d.emud1k.txt",
-    "updated": "2025-09-26T07:21:13Z",
-    "lines": 753975,
-    "lines_format": "753,975",
-    "size": 15461240,
+    "name": "block.64e5c9759f.1bnpjd.txt",
+    "updated": "2025-09-27T07:20:43Z",
+    "lines": 753463,
+    "lines_format": "753,463",
+    "size": 15451216,
     "size_format": "14.7 MB"
   },
   "allowlist": {
