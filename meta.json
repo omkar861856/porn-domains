@@ -1,10 +1,10 @@
 {
   "blocklist": {
-    "name": "block.0469b360fe.fbkpfl.txt",
-    "updated": "2025-10-05T07:21:19Z",
-    "lines": 756157,
-    "lines_format": "756,157",
-    "size": 15496009,
+    "name": "block.ada492711d.40esub.txt",
+    "updated": "2025-10-06T07:21:59Z",
+    "lines": 755569,
+    "lines_format": "755,569",
+    "size": 15485568,
     "size_format": "14.8 MB"
   },
   "allowlist": {
