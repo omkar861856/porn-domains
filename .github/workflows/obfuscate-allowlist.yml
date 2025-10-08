@@ -83,6 +83,10 @@ jobs:
           UPDATED=$(date -u -d "@$FILE_TS" +"%Y-%m-%dT%H:%M:%SZ")
           echo "[DEBUG] Updated: $UPDATED"
 
+          # Format updated date (e.g. "January 01, 2024 12:00:00 UTC")
+          UPDATED_FORMAT=$(date -u -d "@$FILE_TS" +"%B %d, %Y %H:%M:%S UTC")
+          echo "[DEBUG] Updated format: $UPDATED_FORMAT"
+
           # Get number of lines in the file
           LINES=$(grep -c '^' "${{ env.new_list_file_name }}")
           echo "[DEBUG] Lines: $LINES"
@@ -110,11 +114,12 @@ jobs:
 
           jq --arg filename "${{ env.new_list_file_name }}" \
             --arg updated "$UPDATED" \
+            --arg updated_format "$UPDATED_FORMAT" \
             --argjson lines "$LINES" \
             --arg lines_format "$LINES_FORMAT" \
             --argjson size "$SIZE" \
             --arg size_format "$SIZE_FORMAT" \
-            ".${{ env.LIST_TYPE }} = {name: \$filename, updated: \$updated, lines: \$lines, lines_format: \$lines_format, size: \$size, size_format: \$size_format}" \
+            ".${{ env.LIST_TYPE }} = {name: \$filename, updated: \$updated, updated_format: \$updated_format, lines: \$lines, lines_format: \$lines_format, size: \$size, size_format: \$size_format}" \
             meta.json > meta.tmp && mv meta.tmp meta.json
 
       - name: Commit and push changes

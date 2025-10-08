@@ -2,6 +2,7 @@
   "blocklist": {
     "name": "block.40cc13d8d0.rps6ct.txt",
     "updated": "2025-10-08T07:21:19Z",
+    "updated_format": "October 08, 2025 07:21:19 UTC",
     "lines": 754320,
     "lines_format": "754,320",
     "size": 15471297,
@@ -10,6 +11,7 @@
   "allowlist": {
     "name": "allow.ce07f3642e.gzfild.txt",
     "updated": "2025-10-08T07:21:30Z",
+    "updated_format": "October 08, 2025 07:21:30 UTC",
     "lines": 14977,
     "lines_format": "14,977",
     "size": 197093,
