@@ -36,7 +36,7 @@ For details about updates and changes to this repository, take a look at the [Ch
 
 **Note:** Wondering about `FILE_HASH` or `RANDOM_HASH`? [Please read this.](https://github.com/Bon-Appetit/porn-domains/blob/main/docs/CHANGELOG.md#2025-06-20)
 
-## 📜 Policy
+## 📄 Policy
 
 For detailed information on the policies governing the inclusion and exclusion of domains in this list, please refer to our [Domain List Policy](https://github.com/Bon-Appetit/porn-domains/blob/main/docs/POLICY.md). This document outlines the criteria and procedures we follow to ensure the list is as accurate and comprehensive as possible.
 
@@ -60,11 +60,11 @@ This project is supported by generous sponsors. See [Sponsors](https://github.co
 
 Need help or have questions? Visit [Support](https://github.com/Bon-Appetit/porn-domains/blob/main/docs/SUPPORT.md) for contact options and support resources.
 
-## License
+## 📜 License
 
-This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. For more information, please read the full [LICENSE](https://github.com/Bon-Appetit/porn-domains/blob/main/LICENSE) file.
+This project is distributed under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. For full details, please refer to the [LICENSE](https://github.com/Bon-Appetit/porn-domains/blob/main/LICENSE) file.
 
-If you use or share this list, please credit the project as follows (or in a similar way):
+If you use or share this list, kindly credit the project as follows:
 
 **Markdown:**
 
