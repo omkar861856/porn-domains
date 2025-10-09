@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.40cc13d8d0.rps6ct.txt",
-    "updated": "2025-10-08T07:21:19Z",
-    "updated_format": "October 08, 2025 07:21:19 UTC",
-    "lines": 754320,
-    "lines_format": "754,320",
-    "size": 15471297,
+    "name": "block.ee2b60620e.1fqurk.txt",
+    "updated": "2025-10-09T07:21:40Z",
+    "updated_format": "October 09, 2025 07:21:40 UTC",
+    "lines": 756537,
+    "lines_format": "756,537",
+    "size": 15503037,
     "size_format": "14.8 MB"
   },
   "allowlist": {
