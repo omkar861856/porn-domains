@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.e85f668953.jeivoc.txt",
-    "updated": "2025-10-11T07:21:33Z",
-    "updated_format": "October 11, 2025 07:21:33 UTC",
-    "lines": 756230,
-    "lines_format": "756,230",
-    "size": 15499276,
+    "name": "block.724cebdd48.28xc7k.txt",
+    "updated": "2025-10-12T07:21:35Z",
+    "updated_format": "October 12, 2025 07:21:35 UTC",
+    "lines": 755911,
+    "lines_format": "755,911",
+    "size": 15490244,
     "size_format": "14.8 MB"
   },
   "allowlist": {
