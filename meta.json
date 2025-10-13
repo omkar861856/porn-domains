@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.724cebdd48.28xc7k.txt",
-    "updated": "2025-10-12T07:21:35Z",
-    "updated_format": "October 12, 2025 07:21:35 UTC",
-    "lines": 755911,
-    "lines_format": "755,911",
-    "size": 15490244,
+    "name": "block.babd3542e2.t3lhdg.txt",
+    "updated": "2025-10-13T07:21:24Z",
+    "updated_format": "October 13, 2025 07:21:24 UTC",
+    "lines": 755843,
+    "lines_format": "755,843",
+    "size": 15492650,
     "size_format": "14.8 MB"
   },
   "allowlist": {
