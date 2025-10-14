@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.babd3542e2.t3lhdg.txt",
-    "updated": "2025-10-13T07:21:24Z",
-    "updated_format": "October 13, 2025 07:21:24 UTC",
-    "lines": 755843,
-    "lines_format": "755,843",
-    "size": 15492650,
-    "size_format": "14.8 MB"
+    "name": "block.4cac9cbadd.b386bs.txt",
+    "updated": "2025-10-14T07:21:28Z",
+    "updated_format": "October 14, 2025 07:21:28 UTC",
+    "lines": 753920,
+    "lines_format": "753,920",
+    "size": 15461895,
+    "size_format": "14.7 MB"
   },
   "allowlist": {
     "name": "allow.54e4d941f4.y1e549.txt",
