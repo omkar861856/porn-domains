@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.e51468ff91.f10cum.txt",
-    "updated": "2025-10-19T07:21:35Z",
-    "updated_format": "October 19, 2025 07:21:35 UTC",
-    "lines": 752973,
-    "lines_format": "752,973",
-    "size": 15444515,
+    "name": "block.f4ccbc18d6.1hcpup.txt",
+    "updated": "2025-10-20T07:21:23Z",
+    "updated_format": "October 20, 2025 07:21:23 UTC",
+    "lines": 752498,
+    "lines_format": "752,498",
+    "size": 15430699,
     "size_format": "14.7 MB"
   },
   "allowlist": {
