@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.f4ccbc18d6.1hcpup.txt",
-    "updated": "2025-10-20T07:21:23Z",
-    "updated_format": "October 20, 2025 07:21:23 UTC",
-    "lines": 752498,
-    "lines_format": "752,498",
-    "size": 15430699,
+    "name": "block.5946f85e20.ixtppz.txt",
+    "updated": "2025-10-21T07:21:48Z",
+    "updated_format": "October 21, 2025 07:21:48 UTC",
+    "lines": 753198,
+    "lines_format": "753,198",
+    "size": 15447856,
     "size_format": "14.7 MB"
   },
   "allowlist": {
