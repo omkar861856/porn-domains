@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.df31d30fe6.uukvdn.txt",
-    "updated": "2025-10-24T07:21:36Z",
-    "updated_format": "October 24, 2025 07:21:36 UTC",
-    "lines": 752554,
-    "lines_format": "752,554",
-    "size": 15436722,
+    "name": "block.c82e499c6f.p1py7l.txt",
+    "updated": "2025-10-25T07:21:50Z",
+    "updated_format": "October 25, 2025 07:21:50 UTC",
+    "lines": 750289,
+    "lines_format": "750,289",
+    "size": 15405386,
     "size_format": "14.7 MB"
   },
   "allowlist": {
