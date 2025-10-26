@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.c82e499c6f.p1py7l.txt",
-    "updated": "2025-10-25T07:21:50Z",
-    "updated_format": "October 25, 2025 07:21:50 UTC",
-    "lines": 750289,
-    "lines_format": "750,289",
-    "size": 15405386,
+    "name": "block.6960a7f2a4.0docvy.txt",
+    "updated": "2025-10-26T08:21:23Z",
+    "updated_format": "October 26, 2025 08:21:23 UTC",
+    "lines": 752549,
+    "lines_format": "752,549",
+    "size": 15437105,
     "size_format": "14.7 MB"
   },
   "allowlist": {
