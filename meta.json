@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.7dc85423d3.aumjk1.txt",
-    "updated": "2025-10-27T08:22:08Z",
-    "updated_format": "October 27, 2025 08:22:08 UTC",
-    "lines": 752491,
-    "lines_format": "752,491",
-    "size": 15434593,
+    "name": "block.3b51db3a4e.gsit9m.txt",
+    "updated": "2025-10-28T08:21:47Z",
+    "updated_format": "October 28, 2025 08:21:47 UTC",
+    "lines": 752234,
+    "lines_format": "752,234",
+    "size": 15431413,
     "size_format": "14.7 MB"
   },
   "allowlist": {
