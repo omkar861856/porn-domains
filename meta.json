@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.f2d00e3273.pe1vnl.txt",
-    "updated": "2025-11-02T08:20:28Z",
-    "updated_format": "November 02, 2025 08:20:28 UTC",
-    "lines": 751356,
-    "lines_format": "751,356",
-    "size": 15419130,
+    "name": "block.2acabb8b88.3ipfsg.txt",
+    "updated": "2025-11-03T08:20:43Z",
+    "updated_format": "November 03, 2025 08:20:43 UTC",
+    "lines": 751365,
+    "lines_format": "751,365",
+    "size": 15419412,
     "size_format": "14.7 MB"
   },
   "allowlist": {
