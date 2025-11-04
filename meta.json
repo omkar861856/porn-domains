@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.2acabb8b88.3ipfsg.txt",
-    "updated": "2025-11-03T08:20:43Z",
-    "updated_format": "November 03, 2025 08:20:43 UTC",
-    "lines": 751365,
-    "lines_format": "751,365",
-    "size": 15419412,
-    "size_format": "14.7 MB"
+    "name": "block.bc263c83e8.7lg4dd.txt",
+    "updated": "2025-11-04T08:20:43Z",
+    "updated_format": "November 04, 2025 08:20:43 UTC",
+    "lines": 744731,
+    "lines_format": "744,731",
+    "size": 15307983,
+    "size_format": "14.6 MB"
   },
   "allowlist": {
     "name": "allow.54e4d941f4.isvxrd.txt",
