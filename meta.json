@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.ed2ffa7457.87gmzk.txt",
-    "updated": "2025-11-08T08:20:38Z",
-    "updated_format": "November 08, 2025 08:20:38 UTC",
-    "lines": 743863,
-    "lines_format": "743,863",
-    "size": 15291366,
+    "name": "block.0ddec57330.e0ncom.txt",
+    "updated": "2025-11-09T08:20:46Z",
+    "updated_format": "November 09, 2025 08:20:46 UTC",
+    "lines": 743304,
+    "lines_format": "743,304",
+    "size": 15283215,
     "size_format": "14.6 MB"
   },
   "allowlist": {
