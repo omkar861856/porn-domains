@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.d770867bcd.fhrt7h.txt",
-    "updated": "2025-11-13T08:21:05Z",
-    "updated_format": "November 13, 2025 08:21:05 UTC",
-    "lines": 744605,
-    "lines_format": "744,605",
-    "size": 15307611,
+    "name": "block.edcc409c64.aqh4an.txt",
+    "updated": "2025-11-14T08:21:04Z",
+    "updated_format": "November 14, 2025 08:21:04 UTC",
+    "lines": 744420,
+    "lines_format": "744,420",
+    "size": 15303455,
     "size_format": "14.6 MB"
   },
   "allowlist": {
