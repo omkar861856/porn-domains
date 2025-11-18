@@ -6,7 +6,8 @@ This changelog documents changes to the structure, file handling, and background
 - Browse [source additions and removals](https://github.com/Bon-Appetit/porn-domains/issues?q=label%3A%22add%20source%22%20OR%20label%3A%22remove%20source%22)
 - Browse [individual domain reports](https://github.com/Bon-Appetit/porn-domains/issues?q=label%3A%22add%20domain%22%20OR%20label%3A%22bulk%20domain%20report%22%20OR%20label%3A%22remove%20domain%22)
 
-**Format Of Date Is: YYYY-MM-DD**
+> [!NOTE]
+> All dates in this changelog use the **YYYY-MM-DD** format.
 
 ## 2025-07-02
 
