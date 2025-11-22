@@ -10,7 +10,7 @@ This changelog documents changes to the structure, file handling, and background
 > All dates in this changelog use the **YYYY-MM-DD** format.
 
 ## 2025-10-08
-Add human-readable date/time to `meta.json`, see 80b20b4fee01d50c850870c72416ab3d05c6cdd1.
+Add human-readable date/time to `meta.json`, see [80b20b4](https://github.com/Bon-Appetit/porn-domains/commit/80b20b4fee01d50c850870c72416ab3d05c6cdd1).
 
 ## 2025-07-02
 
