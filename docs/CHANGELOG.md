@@ -9,6 +9,9 @@ This changelog documents changes to the structure, file handling, and background
 > [!NOTE]
 > All dates in this changelog use the **YYYY-MM-DD** format.
 
+## 2025-10-08
+Add human-readable date/time to `meta.json`, see 80b20b4fee01d50c850870c72416ab3d05c6cdd1.
+
 ## 2025-07-02
 
 - Update `meta.json` to modify its structure and include additional information about the lists. For each list, it includes the file name, the last updated timestamp, the number of lines it contains (basically number of domains), and its size in bytes.
