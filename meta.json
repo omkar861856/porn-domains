@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.506e59dee4.h48ibx.txt",
-    "updated": "2025-11-22T08:20:43Z",
-    "updated_format": "November 22, 2025 08:20:43 UTC",
-    "lines": 744307,
-    "lines_format": "744,307",
-    "size": 15306421,
+    "name": "block.f53fdb4429.dyxi8v.txt",
+    "updated": "2025-11-23T08:20:26Z",
+    "updated_format": "November 23, 2025 08:20:26 UTC",
+    "lines": 744120,
+    "lines_format": "744,120",
+    "size": 15302873,
     "size_format": "14.6 MB"
   },
   "allowlist": {
