@@ -5,11 +5,14 @@ audible.com
 baidu.com
 bandaancha.eu
 ccleaner.com
+cdn.cookielaw.org
+cdn.shopify.com
 channel5.com
 chat.com
 cnet.com
 curseforge.com
 deviantart.com
+ecosia.org
 example.com
 example.net
 example.org
@@ -20,9 +23,11 @@ free.fr
 geef.nl
 getfirefox.com
 githubusercontent.com
+gog.com
 google.com
 googleadservices.com
 googlevideo.com
+graph.facebook.com
 greasyfork.org
 heavy.com
 histats.com
@@ -30,6 +35,7 @@ ilpost.it
 imgur.com
 instagram.com
 istockphoto.com
+jellyfin.org
 kexp.org
 kickstarter.com
 line.me
@@ -42,6 +48,7 @@ msn.com
 nyaa.si
 oisd.nl
 omroepzeeland.nl
+opensubtitles.org
 openuserjs.org
 orange.fr
 photo.voici.fr
@@ -76,4 +83,8 @@ wp.com
 x.com
 yahoo.com
 yandex.by
+yandex.kz
+yandex.lv
+yandex.net
+yandex.uz
 zendesk.com
