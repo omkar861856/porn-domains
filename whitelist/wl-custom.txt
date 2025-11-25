@@ -33,6 +33,7 @@ ilpost.it
 imgur.com
 instagram.com
 istockphoto.com
+jellyfin.org
 kexp.org
 kickstarter.com
 line.me
