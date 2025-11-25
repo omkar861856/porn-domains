@@ -27,6 +27,7 @@ gog.com
 google.com
 googleadservices.com
 googlevideo.com
+graph.facebook.com
 greasyfork.org
 heavy.com
 histats.com
