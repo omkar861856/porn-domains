@@ -46,6 +46,7 @@ msn.com
 nyaa.si
 oisd.nl
 omroepzeeland.nl
+opensubtitles.org
 openuserjs.org
 orange.fr
 photo.voici.fr
