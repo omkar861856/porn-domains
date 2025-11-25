@@ -81,4 +81,8 @@ wp.com
 x.com
 yahoo.com
 yandex.by
+yandex.kz
+yandex.lv
+yandex.net
+yandex.uz
 zendesk.com
