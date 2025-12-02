@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.37c641b1ff.24sjib.txt",
-    "updated": "2025-12-01T08:19:46Z",
-    "updated_format": "December 01, 2025 08:19:46 UTC",
-    "lines": 743692,
-    "lines_format": "743,692",
-    "size": 15295952,
-    "size_format": "14.6 MB"
+    "name": "block.3fab5bd93c.tfgkzl.txt",
+    "updated": "2025-12-02T08:19:53Z",
+    "updated_format": "December 02, 2025 08:19:53 UTC",
+    "lines": 766507,
+    "lines_format": "766,507",
+    "size": 15702721,
+    "size_format": "15.0 MB"
   },
   "allowlist": {
     "name": "allow.d45d576f40.6s6v6l.txt",
