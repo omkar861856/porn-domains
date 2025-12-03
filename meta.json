@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.3fab5bd93c.tfgkzl.txt",
-    "updated": "2025-12-02T08:19:53Z",
-    "updated_format": "December 02, 2025 08:19:53 UTC",
-    "lines": 766507,
-    "lines_format": "766,507",
-    "size": 15702721,
+    "name": "block.62d3b2d453.8qr2p2.txt",
+    "updated": "2025-12-03T08:20:09Z",
+    "updated_format": "December 03, 2025 08:20:09 UTC",
+    "lines": 766573,
+    "lines_format": "766,573",
+    "size": 15705282,
     "size_format": "15.0 MB"
   },
   "allowlist": {
