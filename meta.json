@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.85feec7933.78ve1i.txt",
-    "updated": "2025-12-09T08:22:21Z",
-    "updated_format": "December 09, 2025 08:22:21 UTC",
-    "lines": 736702,
-    "lines_format": "736,702",
-    "size": 15134370,
+    "name": "block.2bf025d986.nemq55.txt",
+    "updated": "2025-12-10T08:20:58Z",
+    "updated_format": "December 10, 2025 08:20:58 UTC",
+    "lines": 736861,
+    "lines_format": "736,861",
+    "size": 15138754,
     "size_format": "14.4 MB"
   },
   "allowlist": {
