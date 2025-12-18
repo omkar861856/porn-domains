@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.38bcb8fb5e.fpoen0.txt",
-    "updated": "2025-12-17T08:18:37Z",
-    "updated_format": "December 17, 2025 08:18:37 UTC",
-    "lines": 739832,
-    "lines_format": "739,832",
-    "size": 15137904,
+    "name": "block.e13dd817bc.iegiro.txt",
+    "updated": "2025-12-18T08:20:41Z",
+    "updated_format": "December 18, 2025 08:20:41 UTC",
+    "lines": 739860,
+    "lines_format": "739,860",
+    "size": 15139483,
     "size_format": "14.4 MB"
   },
   "allowlist": {
