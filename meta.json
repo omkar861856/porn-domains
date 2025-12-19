@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.e13dd817bc.iegiro.txt",
-    "updated": "2025-12-18T08:20:41Z",
-    "updated_format": "December 18, 2025 08:20:41 UTC",
-    "lines": 739860,
-    "lines_format": "739,860",
-    "size": 15139483,
+    "name": "block.1b87f37cb3.kxfkn5.txt",
+    "updated": "2025-12-19T08:19:21Z",
+    "updated_format": "December 19, 2025 08:19:21 UTC",
+    "lines": 739104,
+    "lines_format": "739,104",
+    "size": 15127739,
     "size_format": "14.4 MB"
   },
   "allowlist": {
