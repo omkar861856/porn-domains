@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.b2c98b040f.1i64yx.txt",
-    "updated": "2025-12-24T08:20:35Z",
-    "updated_format": "December 24, 2025 08:20:35 UTC",
-    "lines": 738150,
-    "lines_format": "738,150",
-    "size": 15104324,
+    "name": "block.a23992d225.gesc1k.txt",
+    "updated": "2025-12-25T08:19:55Z",
+    "updated_format": "December 25, 2025 08:19:55 UTC",
+    "lines": 737720,
+    "lines_format": "737,720",
+    "size": 15095086,
     "size_format": "14.4 MB"
   },
   "allowlist": {
