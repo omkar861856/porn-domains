@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.1a2703aef1.w4h74t.txt",
-    "updated": "2026-01-01T08:22:56Z",
-    "updated_format": "January 01, 2026 08:22:56 UTC",
-    "lines": 737666,
-    "lines_format": "737,666",
-    "size": 15102974,
+    "name": "block.20bb03f2fc.1b7gbu.txt",
+    "updated": "2026-01-02T08:19:01Z",
+    "updated_format": "January 02, 2026 08:19:01 UTC",
+    "lines": 737959,
+    "lines_format": "737,959",
+    "size": 15108310,
     "size_format": "14.4 MB"
   },
   "allowlist": {
