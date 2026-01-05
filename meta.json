@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.7e0db1e6e9.vvkok9.txt",
-    "updated": "2026-01-04T08:18:25Z",
-    "updated_format": "January 04, 2026 08:18:25 UTC",
-    "lines": 737923,
-    "lines_format": "737,923",
-    "size": 15107373,
+    "name": "block.42f0fe0862.fa6z94.txt",
+    "updated": "2026-01-05T08:19:15Z",
+    "updated_format": "January 05, 2026 08:19:15 UTC",
+    "lines": 737774,
+    "lines_format": "737,774",
+    "size": 15105233,
     "size_format": "14.4 MB"
   },
   "allowlist": {
