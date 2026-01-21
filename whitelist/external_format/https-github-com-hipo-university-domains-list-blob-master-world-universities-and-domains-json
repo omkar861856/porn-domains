@@ -1,7 +1,7 @@
 # URL: https://github.com/Hipo/university-domains-list/blob/master/world_universities_and_domains.json
-# LAST UPDATE (OF DATA): 2025-06-13
-# LAST DATA PROCESSING (DATE): 2025-06-25
-# COMMENTS: Extracted (JSON format), sorted, deduplicated
+# LAST UPDATE (OF DATA): 2026-01-02
+# LAST DATA PROCESSING (DATE): 2026-01-21
+# COMMENTS: Extracted, sorted, deduplicated
 29mayis.edu.tr
 4cd.edu
 a2.keio.jp
@@ -201,6 +201,7 @@ aksaray.edu.tr
 aktsu.kz
 aku.edu
 aku.edu.et
+aku.edu.tr
 aku.sk
 akutech.edu.ng
 alagappauniversity.ac.in
@@ -1141,6 +1142,7 @@ cdnis.edu.hk
 cdu.ac.kr
 cdu.edu.au
 cdu.edu.cn
+cduestc.cn
 cdutcm.edu.cn
 cdut.edu.cn
 ceaprc.org
@@ -1361,6 +1363,8 @@ coe.edu
 coeikere.edu.ng
 coeoju.com
 coeptech.ac.in
+coer.ac.in
+coeruniversity.ac.in
 cofc.edu
 coffeyville.edu
 coker.edu
@@ -1631,6 +1635,7 @@ daito.ac.jp
 dakotacollege.edu
 dalanjuniversity.edu.sd
 dal.ca
+dallascollege.edu
 daltonstate.edu
 damanhour.edu.eg
 damascusuniversity.edu.sy
@@ -2147,6 +2152,7 @@ esmad.ipp.pt
 esme.fr
 esm-tbilisi.ge
 esn.ac.lk
+esoft.academy
 espam-formationuc.org
 espci.fr
 espe.edu.ec
@@ -2596,6 +2602,7 @@ gimcheon.ac.kr
 gimpa.edu.gh
 ginue.ac.kr
 gipe.ernet.in
+giresun.edu.tr
 gist.ac.kr
 gist.edu.pk
 gitam.edu
@@ -2841,6 +2848,7 @@ hb.se
 hbu.edu
 hbu.edu.cn
 h-bunkyo.ac.jp
+hbv.edu.tr
 hccc.edu
 hcc.commnet.edu
 hcc.edu
@@ -3554,6 +3562,7 @@ istec.pt
 ist.edu.pk
 iste.edu.tr
 ist-hochschule.de
+istinye.edu.tr
 istp.pt
 istu.irk.ru
 istu.ru
@@ -3584,7 +3593,6 @@ itcr.ac.cr
 itdurango.edu.mx
 itech.fr
 ite.edu.sg
-itesm.mx
 iteso.mx
 ithaca.edu
 it-hiroshima.ac.jp
@@ -4192,6 +4200,7 @@ kth-linz.ac.at
 kth.se
 ktkt-haiduong.edu.vn
 ktokai-u.ac.jp
+ktu.edu
 ktu.edu.gh
 ktu.edu.tr
 ktu.lt
@@ -4819,6 +4828,7 @@ millsaps.edu
 mil.lv
 mimasaka.ac.jp
 mineralarea.edu
+minerva.edu
 mines-ales.fr
 mines-ales.org
 mines.edu
@@ -5170,6 +5180,7 @@ ncbc.edu
 nccc.edu
 ncc.commnet.edu
 ncc.edu
+ncc.metu.edu.tr
 nccu.edu
 nccu.edu.tw
 nc.edu.sd
@@ -5296,6 +5307,7 @@ nicholls.edu
 nicoletcollege.edu
 nida.ac.th
 nifs-k.ac.jp
+nigde.edu.tr
 nih.no
 nihon-u.ac.jp
 niigata-pharm.ac.jp
@@ -5540,6 +5552,7 @@ num.edu.kh
 num.edu.mn
 numl.edu.pk
 nunez.edu
+nung.edu.ua
 nuol.edu.la
 nu-online.com
 nur.ac.rw
@@ -5669,6 +5682,7 @@ oouagoiwoye.edu.ng
 open.ac.uk
 openpolytechnic.ac.nz
 openu.ac.il
+op.iitg.ac.in
 op.org
 opu.odessa.ua
 oradeauniversity.co
@@ -5814,6 +5828,7 @@ pcu.ac.kr
 pcu.edu.ph
 pcz.czest.pl
 pdc.edu
+pdeu.ac.in
 pdkv.ac.in
 pdn.ac.lk
 pdpu.ac.in
@@ -6278,6 +6293,7 @@ rmlau.ac.in
 rmu.edu
 rmutp.ac.th
 rmwc.edu
+rnd.iitg.ac.in
 rnu.edu.ng
 roac.nl
 roanestate.edu
@@ -6825,6 +6841,7 @@ smkfomra.net
 smmu.edu.cn
 smolny-un.spb.ru
 smsu.edu
+smtafe.wa.edu.au
 smtu.ru
 smu.ac.kr
 smu.ac.uk
@@ -6895,6 +6912,7 @@ southern.edu.bd
 southernwv.edu
 southflorida.edu
 southgatech.edu
+southmetrotafe.wa.edu.au
 southmountaincc.edu
 southplainscollege.edu
 southside.edu
@@ -7059,6 +7077,7 @@ stthom.edu
 sttu.ac.ir
 stu.ac.kr
 stuba.sk
+studbocconi.it
 student.42.fr
 student.42.us.org
 student.aau.dk
@@ -7271,6 +7290,7 @@ taegu-e.ac.kr
 taejae.ac.kr
 taejon.ac.kr
 taeshin.ac.kr
+tafe.wa.edu.au
 taftcollege.edu
 taftu.edu
 taibahu.edu.sa
@@ -7340,6 +7360,7 @@ technikum-wien.at
 technion.ac.il
 techniqueedu.com
 tecmilenio.mx
+tec.mx
 tedu.edu.tr
 tees.ac.uk
 teh-lavasan.pnu.ac.ir
@@ -7390,6 +7411,7 @@ thomas.edu
 thomasmore.be
 thomasmore.edu
 th-rosenheim.de
+thu.de
 thu.edu.tw
 thums.ac.ir
 thunderbird.edu
@@ -7483,6 +7505,7 @@ toledo.br
 toledoprudente.edu.br
 tongji.edu.cn
 tonichi-kokusai-u.ac.jp
+topkapi.edu.tr
 toronto.edu
 torontomu.ca
 toros.edu.tr
@@ -7630,6 +7653,7 @@ turathun.com
 turiba.lv
 turkistan.kz
 tusculum.edu
+tus.ie
 tuskegee.edu
 tu-sofia.bg
 tusol.org
@@ -8014,6 +8038,7 @@ udb.sn
 udca.edu.co
 udc.edu
 udc.es
+udc.gal
 udch.edu.pe
 udea.edu.co
 udec.cl
@@ -9289,6 +9314,7 @@ untag-smd.ac.id
 untagsmg.ac.id
 untan.ac.id
 untar.ac.id
+untdallas.edu
 unt.edu
 unt.edu.ar
 unthsc.edu
@@ -9598,6 +9624,7 @@ usc.edu.ph
 usc.edu.tt
 usc.es
 uscga.edu
+usc.gal
 uscon.ru
 usd.ac.id
 usd.edu
@@ -9838,6 +9865,7 @@ uvic.ca
 uvic.es
 uvi.edu
 uvigo.es
+uvigo.gal
 uvipro.cl
 uvm.cl
 uvm.edu
@@ -10149,6 +10177,7 @@ whitman.edu
 whittier.edu
 whitworth.edu
 whoi.edu
+w-hs.de
 whtu.edu.cn
 whu.edu
 whu.edu.cn
