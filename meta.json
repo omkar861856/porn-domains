@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.67da5e9a84.xti72z.txt",
-    "updated": "2026-01-26T08:17:17Z",
-    "updated_format": "January 26, 2026 08:17:17 UTC",
-    "lines": 666202,
-    "lines_format": "666,202",
-    "size": 13937430,
-    "size_format": "13.3 MB"
+    "name": "block.57eee8f19d.vhsib4.txt",
+    "updated": "2026-01-27T08:18:18Z",
+    "updated_format": "January 27, 2026 08:18:18 UTC",
+    "lines": 708396,
+    "lines_format": "708,396",
+    "size": 14690000,
+    "size_format": "14.0 MB"
   },
   "allowlist": {
     "name": "allow.27d678035e.e040yj.txt",
