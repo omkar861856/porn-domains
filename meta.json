@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.49223bbb80.ptd738.txt",
-    "updated": "2026-02-11T08:25:33Z",
-    "updated_format": "February 11, 2026 08:25:33 UTC",
-    "lines": 713932,
-    "lines_format": "713,932",
-    "size": 14754489,
-    "size_format": "14.1 MB"
+    "name": "block.c18f19bb03.jal16e.txt",
+    "updated": "2026-02-12T08:23:59Z",
+    "updated_format": "February 12, 2026 08:23:59 UTC",
+    "lines": 685808,
+    "lines_format": "685,808",
+    "size": 14185279,
+    "size_format": "13.5 MB"
   },
   "allowlist": {
     "name": "allow.27d678035e.z8yw5j.txt",
