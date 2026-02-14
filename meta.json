@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.d0d0b66e4b.6knbin.txt",
-    "updated": "2026-02-13T08:26:34Z",
-    "updated_format": "February 13, 2026 08:26:34 UTC",
-    "lines": 685540,
-    "lines_format": "685,540",
-    "size": 14179894,
+    "name": "block.0f003c1634.c9uwbw.txt",
+    "updated": "2026-02-14T08:24:43Z",
+    "updated_format": "February 14, 2026 08:24:43 UTC",
+    "lines": 685193,
+    "lines_format": "685,193",
+    "size": 14175169,
     "size_format": "13.5 MB"
   },
   "allowlist": {
