@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.0f003c1634.c9uwbw.txt",
-    "updated": "2026-02-14T08:24:43Z",
-    "updated_format": "February 14, 2026 08:24:43 UTC",
-    "lines": 685193,
-    "lines_format": "685,193",
-    "size": 14175169,
+    "name": "block.8bc283c92a.limvhz.txt",
+    "updated": "2026-02-15T08:26:54Z",
+    "updated_format": "February 15, 2026 08:26:54 UTC",
+    "lines": 685439,
+    "lines_format": "685,439",
+    "size": 14179047,
     "size_format": "13.5 MB"
   },
   "allowlist": {
