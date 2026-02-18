@@ -9,6 +9,9 @@ This changelog documents changes to the structure, file handling, and background
 > [!NOTE]
 > All dates in this changelog use the **YYYY-MM-DD** format.
 
+## 2026-02-18
+The DNS checks now also detect parked domains and filter out any domains that use nameservers associated with domain parking. For transparency, you can find the list of parking nameservers used here: https://gist.github.com/CodeAlDente/33aeb7ff369e7ecd2d52abd0d0ee7d59
+
 ## 2025-10-08
 Add human-readable date/time to `meta.json`, see [80b20b4](https://github.com/Bon-Appetit/porn-domains/commit/80b20b4fee01d50c850870c72416ab3d05c6cdd1).
 
