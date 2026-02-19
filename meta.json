@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.4d52454762.5nwst3.txt",
-    "updated": "2026-02-18T08:26:39Z",
-    "updated_format": "February 18, 2026 08:26:39 UTC",
-    "lines": 697426,
-    "lines_format": "697,426",
-    "size": 14469483,
-    "size_format": "13.8 MB"
+    "name": "block.c2aacd7e95.apkncy.txt",
+    "updated": "2026-02-19T08:43:40Z",
+    "updated_format": "February 19, 2026 08:43:40 UTC",
+    "lines": 433970,
+    "lines_format": "433,970",
+    "size": 9202562,
+    "size_format": "8.8 MB"
   },
   "allowlist": {
     "name": "allow.b0648ec716.wwdit1.txt",
