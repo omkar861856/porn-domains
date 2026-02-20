@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.c2aacd7e95.apkncy.txt",
-    "updated": "2026-02-19T08:43:40Z",
-    "updated_format": "February 19, 2026 08:43:40 UTC",
-    "lines": 433970,
-    "lines_format": "433,970",
-    "size": 9202562,
-    "size_format": "8.8 MB"
+    "name": "block.bf3755e532.hot0qe.txt",
+    "updated": "2026-02-20T08:37:44Z",
+    "updated_format": "February 20, 2026 08:37:44 UTC",
+    "lines": 717716,
+    "lines_format": "717,716",
+    "size": 14833642,
+    "size_format": "14.1 MB"
   },
   "allowlist": {
     "name": "allow.b0648ec716.sscus9.txt",
