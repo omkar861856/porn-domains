@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.adf2ec812a.ovxyr4.txt",
-    "updated": "2026-02-24T08:28:49Z",
-    "updated_format": "February 24, 2026 08:28:49 UTC",
-    "lines": 662540,
-    "lines_format": "662,540",
-    "size": 13812507,
+    "name": "block.e79094e5dd.95duks.txt",
+    "updated": "2026-02-25T08:36:33Z",
+    "updated_format": "February 25, 2026 08:36:33 UTC",
+    "lines": 663852,
+    "lines_format": "663,852",
+    "size": 13821387,
     "size_format": "13.2 MB"
   },
   "allowlist": {
