@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.862989e88e.9uu9v1.txt",
-    "updated": "2026-03-04T08:40:07Z",
-    "updated_format": "March 04, 2026 08:40:07 UTC",
-    "lines": 747123,
-    "lines_format": "747,123",
-    "size": 15163291,
-    "size_format": "14.5 MB"
+    "name": "block.861ac1c945.laejhs.txt",
+    "updated": "2026-03-05T08:44:10Z",
+    "updated_format": "March 05, 2026 08:44:10 UTC",
+    "lines": 760514,
+    "lines_format": "760,514",
+    "size": 15375208,
+    "size_format": "14.7 MB"
   },
   "allowlist": {
     "name": "allow.3a3616dde3.hmiord.txt",
