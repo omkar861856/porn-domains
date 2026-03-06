@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.861ac1c945.laejhs.txt",
-    "updated": "2026-03-05T08:44:10Z",
-    "updated_format": "March 05, 2026 08:44:10 UTC",
-    "lines": 760514,
-    "lines_format": "760,514",
-    "size": 15375208,
+    "name": "block.41ec6c6ce4.g345pk.txt",
+    "updated": "2026-03-06T08:43:33Z",
+    "updated_format": "March 06, 2026 08:43:33 UTC",
+    "lines": 760006,
+    "lines_format": "760,006",
+    "size": 15365787,
     "size_format": "14.7 MB"
   },
   "allowlist": {
