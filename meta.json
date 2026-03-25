@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.ed8de39826.ehvj8u.txt",
-    "updated": "2026-03-24T08:28:42Z",
-    "updated_format": "March 24, 2026 08:28:42 UTC",
-    "lines": 617311,
-    "lines_format": "617,311",
-    "size": 12769540,
-    "size_format": "12.2 MB"
+    "name": "block.2c419e2316.zpvk20.txt",
+    "updated": "2026-03-25T08:30:40Z",
+    "updated_format": "March 25, 2026 08:30:40 UTC",
+    "lines": 691718,
+    "lines_format": "691,718",
+    "size": 14175454,
+    "size_format": "13.5 MB"
   },
   "allowlist": {
     "name": "allow.3a3616dde3.dkf101.txt",
