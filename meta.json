@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.2a3462f292.asah3m.txt",
-    "updated": "2026-03-29T07:33:21Z",
-    "updated_format": "March 29, 2026 07:33:21 UTC",
-    "lines": 721917,
-    "lines_format": "721,917",
-    "size": 14639553,
-    "size_format": "14.0 MB"
+    "name": "block.4d39471558.pva1f2.txt",
+    "updated": "2026-03-30T07:43:32Z",
+    "updated_format": "March 30, 2026 07:43:32 UTC",
+    "lines": 843799,
+    "lines_format": "843,799",
+    "size": 16661290,
+    "size_format": "15.9 MB"
   },
   "allowlist": {
     "name": "allow.3a3616dde3.hf9rv3.txt",
