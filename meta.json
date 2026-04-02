@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.0e95cb9c93.equszl.txt",
-    "updated": "2026-04-01T07:35:14Z",
-    "updated_format": "April 01, 2026 07:35:14 UTC",
-    "lines": 744912,
-    "lines_format": "744,912",
-    "size": 14975391,
-    "size_format": "14.3 MB"
+    "name": "block.48396f6dc7.vekqtu.txt",
+    "updated": "2026-04-02T07:34:45Z",
+    "updated_format": "April 02, 2026 07:34:45 UTC",
+    "lines": 749939,
+    "lines_format": "749,939",
+    "size": 15060591,
+    "size_format": "14.4 MB"
   },
   "allowlist": {
     "name": "allow.3a3616dde3.kgvong.txt",
