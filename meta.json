@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.64ed14fe43.ybdcrm.txt",
-    "updated": "2026-04-06T07:35:55Z",
-    "updated_format": "April 06, 2026 07:35:55 UTC",
-    "lines": 749511,
-    "lines_format": "749,511",
-    "size": 15053237,
-    "size_format": "14.4 MB"
+    "name": "block.7c64a00d64.4r63cp.txt",
+    "updated": "2026-04-07T07:35:54Z",
+    "updated_format": "April 07, 2026 07:35:54 UTC",
+    "lines": 748906,
+    "lines_format": "748,906",
+    "size": 15044216,
+    "size_format": "14.3 MB"
   },
   "allowlist": {
     "name": "allow.3a3616dde3.mpnaio.txt",
