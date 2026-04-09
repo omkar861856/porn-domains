@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.3fc48274e7.t4sirp.txt",
-    "updated": "2026-04-08T07:35:54Z",
-    "updated_format": "April 08, 2026 07:35:54 UTC",
-    "lines": 778458,
-    "lines_format": "778,458",
-    "size": 15540872,
-    "size_format": "14.8 MB"
+    "name": "block.af2b6afff8.oobswk.txt",
+    "updated": "2026-04-09T07:38:05Z",
+    "updated_format": "April 09, 2026 07:38:05 UTC",
+    "lines": 784091,
+    "lines_format": "784,091",
+    "size": 15635167,
+    "size_format": "14.9 MB"
   },
   "allowlist": {
     "name": "allow.3a3616dde3.ezklus.txt",
