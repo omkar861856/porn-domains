@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.af2b6afff8.oobswk.txt",
-    "updated": "2026-04-09T07:38:05Z",
-    "updated_format": "April 09, 2026 07:38:05 UTC",
-    "lines": 784091,
-    "lines_format": "784,091",
-    "size": 15635167,
+    "name": "block.cff3fbd901.28yxut.txt",
+    "updated": "2026-04-10T07:36:16Z",
+    "updated_format": "April 10, 2026 07:36:16 UTC",
+    "lines": 784270,
+    "lines_format": "784,270",
+    "size": 15637648,
     "size_format": "14.9 MB"
   },
   "allowlist": {
