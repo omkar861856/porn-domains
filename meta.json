@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.4b14cabcb8.duoope.txt",
-    "updated": "2026-04-12T07:39:03Z",
-    "updated_format": "April 12, 2026 07:39:03 UTC",
-    "lines": 783717,
-    "lines_format": "783,717",
-    "size": 15625376,
+    "name": "block.dad270d012.f03z8r.txt",
+    "updated": "2026-04-13T07:38:24Z",
+    "updated_format": "April 13, 2026 07:38:24 UTC",
+    "lines": 783695,
+    "lines_format": "783,695",
+    "size": 15622956,
     "size_format": "14.9 MB"
   },
   "allowlist": {
