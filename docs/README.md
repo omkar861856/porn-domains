@@ -1,15 +1,15 @@
-# 📄 About `/docs`
+# About the /docs Directory
 
-This directory contains documentation and reference materials for the project. It provides guidance, usage instructions, and supporting information to help users and contributors understand and work with the repository.
+This folder holds all the documentation for the project. Think of it as your go-to resource for understanding how things work, what the rules are, and how you can jump in and help out.
 
-## 🎯 Purpose
+## What's Inside
 
-| **Filename** | **Description** |
-|---|---|
-| CHANGELOG.md | Shows what changed in each version and keeps track of project progress. |
-| CONTRIBUTING.md | Explains how you can join in, submit changes, and follow the workflow. |
-| CONTRIBUTORS.md | Lists everyone who has helped build or improve the project. |
-| FAQ.md | Answers to questions that come up often, so you can find help fast. |
-| POLICY.md | Lays out the main rules and expectations for everyone involved. |
-| SPONSORS.md | Names the people and groups who support the project. |
-| SUPPORT.md | Tells you how to get help or report a problem if you need it. |
+| File | What You'll Find |
+|------|------------------|
+| CHANGELOG.md | A record of what's changed in each release and how the project has evolved over time. |
+| CONTRIBUTING.md | Everything you need to know about contributing—whether it's reporting a domain, submitting a fix, or adding a new source. |
+| CONTRIBUTORS.md | A shoutout to all the awesome people who've helped build and improve this project. |
+| FAQ.md | Answers to the most common questions, so you can find help fast without digging around. |
+| POLICY.md | The main rules and guidelines we follow when adding or removing domains from the list. |
+| SPONSORS.md | The kind folks and organizations who support this project financially. |
+| SUPPORT.md | How to get help, report an issue, or reach out if you need something. |

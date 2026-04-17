@@ -1,8 +1,8 @@
-# 📝 Changelog
+# Changelog
 
 This changelog documents changes to the structure, file handling, and background processes related to the domain list. Changes to the lists themselves, such as added or removed domains, are not included here.
 
-- See changes to the lists themselves in the [domain update commits](https://github.com/search?q=repo%3ABon-Appetit%2Fporn-domains+%22%5BAUTO%5D+Update+list%22&type=commits&s=committer-date&o=desc)
+- Check out the [domain update commits](https://github.com/search?q=repo%3ABon-Appetit%2Fporn-domains+%22%5BAUTO%5D+Update+list%22&type=commits&s=committer-date&o=desc) for changes to the actual lists
 - Browse [source additions and removals](https://github.com/Bon-Appetit/porn-domains/issues?q=label%3A%22add%20source%22%20OR%20label%3A%22remove%20source%22)
 - Browse [individual domain reports](https://github.com/Bon-Appetit/porn-domains/issues?q=label%3A%22add%20domain%22%20OR%20label%3A%22bulk%20domain%20report%22%20OR%20label%3A%22remove%20domain%22)
 
@@ -34,7 +34,7 @@ Add human-readable date/time to `meta.json`, see [80b20b4](https://github.com/Bo
 
 - The default branch has been renamed from `master` to `main`.
 - The file `pass.txt` has been renamed to `allow.txt`.
-- The files `block.txt` and `allow.txt` will no longer retain static names. On each update, they will be renamed to a format like `block-HASH.txt` or `allow-HASH.txt`, where `HASH` is a checksum of the file content. This change is intended to prevent direct use of raw URLs. Learn more here: 🔗 [Upcoming changes to prevent direct use of raw URLs](https://github.com/Bon-Appetit/porn-domains/discussions/75)
+- The files `block.txt` and `allow.txt` will no longer retain static names. On each update, they will be renamed to a format like `block-HASH.txt` or `allow-HASH.txt`, where `HASH` is a checksum of the file content. This change is intended to prevent direct use of raw URLs. Learn more here: [Upcoming changes to prevent direct use of raw URLs](https://github.com/Bon-Appetit/porn-domains/discussions/75)
 - A new file named `meta.json` has been introduced. It will be updated to reflect the current filenames for both the blocklist and allowlist.
 
 ## 2025-06-13
@@ -53,7 +53,7 @@ Add human-readable date/time to `meta.json`, see [80b20b4](https://github.com/Bo
 
 ## 2025-03-15
 
-- DNS checks are now enforced again. They are performed directly after combining the domains across all sources. We will monitor the results to ensure everything works as expected. If you encounter any issues, please send an email to mail@codealdente.ovh.
+- DNS checks are now enforced again. They are performed directly after combining the domains across all sources. We will monitor the results to ensure everything works as expected. If you encounter any issues, please send an email to [mail@codealdente.ovh](mailto:mail@codealdente.ovh).
 - DNS checks will exclude whitelist sources. Until we can ensure the results are accurate, a new file named `block.txt.dns_ok` will be placed next to `block.txt`. The `block.txt.dns_ok` file will contain DNS-validated domains, while `block.txt` will include all combined and deduplicated domains from all blacklist sources. **Please note that `block.txt.dns_ok` is TEMPORARY and WILL BE REMOVED once we confirm the results are consistently correct.**
 
 ## 2025-03-03
