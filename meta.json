@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.a4a01f3210.1j2949.txt",
-    "updated": "2026-04-19T07:37:58Z",
-    "updated_format": "April 19, 2026 07:37:58 UTC",
-    "lines": 825113,
-    "lines_format": "825,113",
-    "size": 16379947,
-    "size_format": "15.6 MB"
+    "name": "block.cd4624a0d7.6e3a7q.txt",
+    "updated": "2026-04-20T07:34:10Z",
+    "updated_format": "April 20, 2026 07:34:10 UTC",
+    "lines": 723455,
+    "lines_format": "723,455",
+    "size": 14636408,
+    "size_format": "14.0 MB"
   },
   "allowlist": {
     "name": "allow.3a3616dde3.m692m0.txt",
