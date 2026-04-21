@@ -7,6 +7,8 @@
 
 - None yet.
 
+---
+
 ## Please donate to support this project
 
 [![Donate with Buy me a Coffee](https://bon-appetit.github.io/assets/images/bmc-orange-button@200x56.png)](https://buymeacoffee.com/CodeAlDente)
