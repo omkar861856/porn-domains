@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.0c67da8639.jvbsso.txt",
-    "updated": "2026-04-21T07:32:58Z",
-    "updated_format": "April 21, 2026 07:32:58 UTC",
-    "lines": 721376,
-    "lines_format": "721,376",
-    "size": 14595406,
-    "size_format": "13.9 MB"
+    "name": "block.fb5ee0a40f.5j7r7k.txt",
+    "updated": "2026-04-22T07:34:13Z",
+    "updated_format": "April 22, 2026 07:34:13 UTC",
+    "lines": 733993,
+    "lines_format": "733,993",
+    "size": 14803654,
+    "size_format": "14.1 MB"
   },
   "allowlist": {
     "name": "allow.3492f8dc14.p9fvfs.txt",
