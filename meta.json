@@ -1,11 +1,11 @@
 {
   "blocklist": {
-    "name": "block.ded408168b.nfcjgp.txt",
-    "updated": "2026-04-24T07:35:11Z",
-    "updated_format": "April 24, 2026 07:35:11 UTC",
-    "lines": 747885,
-    "lines_format": "747,885",
-    "size": 15014879,
+    "name": "block.7e1a2ca501.ziyq3q.txt",
+    "updated": "2026-04-25T07:34:31Z",
+    "updated_format": "April 25, 2026 07:34:31 UTC",
+    "lines": 747282,
+    "lines_format": "747,282",
+    "size": 15003284,
     "size_format": "14.3 MB"
   },
   "allowlist": {
