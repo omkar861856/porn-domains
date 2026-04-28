@@ -57,6 +57,18 @@ This project is licensed under [CC BY-SA 4.0](https://creativecommons.org/licens
 [Bon-Appetit/porn-domains](https://github.com/Bon-Appetit/porn-domains) is licensed under [CC BY-SA 4.0](https://github.com/Bon-Appetit/porn-domains/blob/main/LICENSE).
 ```
 
+## PornLocator Service
+
+PornLocator is a premium domain intelligence service built on top of this dataset. It is integrated into the Ecotron Infrastructure and provides real-time verification of domains.
+
+### Features
+- **Instant Search**: Check any domain against our 770,000+ records.
+- **Real-time Stats**: View live domain counts and update timestamps.
+- **Premium UI**: Modern, glassmorphic design for professional use.
+
+### Access
+The service is available internally at `pornlocator.ecotron.co.in`.
+
 ## Disclaimer
 
 **No guarantee.** We don't promise the list is 100% accurate, complete, or up to date. Use it at your own discretion. Some sites may slip through, and some may eventually become non-adult.

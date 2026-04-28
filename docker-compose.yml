@@ -1,0 +1,20 @@
+services:
+  pornlocator:
+    build: .
+    container_name: pornlocator
+    restart: unless-stopped
+    networks:
+      - traefik
+    labels:
+      - "traefik.enable=true"
+      - "traefik.docker.network=traefik"
+      - "traefik.http.routers.pornlocator.rule=Host(`pornlocator.ecotron.co.in`)"
+      - "traefik.http.routers.pornlocator.entrypoints=websecure"
+      - "traefik.http.routers.pornlocator.tls.certresolver=myresolver"
+      - "traefik.http.services.pornlocator.loadbalancer.server.port=5000"
+    volumes:
+      - /root/volumes/pornlocator:/data
+
+networks:
+  traefik:
+    external: true

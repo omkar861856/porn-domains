@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PornLocator | Ecotron Domain Intelligence</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <meta name="description" content="Check if a domain is classified as adult content in the Ecotron infrastructure. High-performance domain intelligence.">
+</head>
+<body>
+    <div class="bg-animation">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <div class="container">
+        <header>
+            <div class="logo">
+                <span class="logo-icon">🔍</span>
+                <span class="logo-text">PornLocator</span>
+            </div>
+            <div class="badge">ECOTRON INFRASTRUCTURE</div>
+        </header>
+
+        <main>
+            <section class="hero">
+                <h1>Domain <span class="gradient-text">Intelligence</span></h1>
+                <p>Verify if a domain is flagged within our global adult content blocklist. Real-time scanning across 770,000+ curated records.</p>
+            </section>
+
+            <section class="search-section">
+                <div class="search-box">
+                    <input type="text" id="domain-input" placeholder="Enter domain (e.g. example.com)" autocomplete="off">
+                    <button id="search-btn">
+                        <span class="btn-text">Check Domain</span>
+                        <span class="btn-loader" style="display: none;">
+                            <svg class="spinner" viewBox="0 0 50 50"><circle class="path" cx="25" cy="25" r="20" fill="none" stroke-width="5"></circle></svg>
+                        </span>
+                    </button>
+                </div>
+                <div id="search-result" class="result-card" style="display: none;">
+                    <div class="result-header">
+                        <span class="result-domain" id="res-domain"></span>
+                        <span class="status-badge" id="res-status"></span>
+                    </div>
+                    <div class="result-body">
+                        <p id="res-reason"></p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value" id="stat-blocked">0</div>
+                    <div class="stat-label">Blocked Domains</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="stat-allowed">0</div>
+                    <div class="stat-label">Allowlisted</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="stat-updated">...</div>
+                    <div class="stat-label">Last Updated</div>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2026 Ecotron Infrastructure. Part of the <a href="https://ecotron.co.in" target="_blank">Ecotron Ecosystem</a>.</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
