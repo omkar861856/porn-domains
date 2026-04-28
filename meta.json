@@ -1,12 +1,12 @@
 {
   "blocklist": {
-    "name": "block.cfd7ccc743.2eyn9m.txt",
-    "updated": "2026-04-27T07:36:13Z",
-    "updated_format": "April 27, 2026 07:36:13 UTC",
-    "lines": 767816,
-    "lines_format": "767,816",
-    "size": 15431461,
-    "size_format": "14.7 MB"
+    "name": "block.deb9657f34.nq5edt.txt",
+    "updated": "2026-04-28T07:36:55Z",
+    "updated_format": "April 28, 2026 07:36:55 UTC",
+    "lines": 770074,
+    "lines_format": "770,074",
+    "size": 15472515,
+    "size_format": "14.8 MB"
   },
   "allowlist": {
     "name": "allow.3492f8dc14.ec4cxc.txt",
