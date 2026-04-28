@@ -2,7 +2,7 @@ import os
 import json
 import threading
 import time
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, send_from_directory, make_response
 from flask_cors import CORS
 
 app = Flask(__name__)
@@ -14,7 +14,6 @@ ALLOWLIST = set()
 META = {}
 
 # Get the directory of the current file (app/main.py)
-# BASE_DIR should be the root of the repo (one level up from app/)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def load_lists():
@@ -64,7 +63,6 @@ def search():
     is_blocked = domain in BLOCKLIST
     is_allowed = domain in ALLOWLIST
     
-    # Check if any parent domain is blocked
     if not is_blocked:
         parts = domain.split('.')
         for i in range(1, len(parts) - 1):
@@ -90,6 +88,22 @@ def stats():
         "last_updated": META.get('blocklist', {}).get('updated_format', 'Unknown')
     })
 
+# --- SEO Routes ---
+
+@app.route('/robots.txt')
+def robots():
+    return send_from_directory(os.path.join(app.root_path, 'static'), 'robots.txt')
+
+@app.route('/sitemap.xml')
+def sitemap():
+    """Simple XML sitemap."""
+    pages = [
+        {'loc': 'https://pornlocator.ecotron.co.in/', 'lastmod': time.strftime('%Y-%m-%d'), 'changefreq': 'daily', 'priority': '1.0'}
+    ]
+    xml = render_template('sitemap.xml', pages=pages)
+    response = make_response(xml)
+    response.headers["Content-Type"] = "application/xml"
+    return response
+
 if __name__ == '__main__':
-    # In production, we'd use gunicorn
     app.run(host='0.0.0.0', port=5000)

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pornlocator.ecotron.co.in/sitemap.xml
